@@ -1,0 +1,7 @@
+dem_path: data/input/dem_glo30.tif
+output_path: data/output/features.tif
+slr_scenarios: [0.0, 0.5, 1.0, 2.0, 3.0]
+features:
+  - slope
+  - twi
+  - bathtub_flood

@@ -1,0 +1,6 @@
+rasterio
+numpy
+scipy
+richdem
+pysheds
+pyyaml
